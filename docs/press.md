@@ -44,8 +44,8 @@
 
 #### Resources  
 
-* **Website:** <https://builders-toronto.github.io/blue/>  
-* **GitHub:** <https://github.com/builders-toronto/blue>  
+* **Website:** <https://build23w.github.io/discourse-blue/>  
+* **GitHub:** <https://github.com/build23w/discourse-blue>  
 * **Twitter/X:** <https://x.com/bluecollarmeta>
 
 ### Owner and Operator
