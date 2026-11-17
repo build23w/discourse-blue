@@ -46,8 +46,8 @@
 
 * **Telegram onboarding:** <https://t.me/+SEBp3Pmgpz8zN2Nk>
 * **Twitter / X:** <https://twitter.com/bluecollarmeta>
-* **Website:** <https://builders-toronto.github.io/blue/>
-* **GitHub:** <https://github.com/builders-toronto/blue>
+* **Website:** <https://build23w.github.io/discourse-blue/>
+* **GitHub:** <https://github.com/build23w/discourse-blue>
 * **GITBOOK:** <https://blue-9.gitbook.io/blue-docs>
 
 Come help shape the roadmap, propose integrations, or earn BLUE by contributing knowledge that builds better worlds for every trade.
